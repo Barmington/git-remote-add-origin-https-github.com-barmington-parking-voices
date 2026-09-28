@@ -6,7 +6,7 @@ Parking Voices gives drivers a place to be heard. Whether it's confusing signage
 
 
 
-Live demo: https://drive.google.com/file/d/1Kv8sGk65w5Od4TQCk3Xfd34z3tckjl2/view?usp=sharing
+Live demo: https://drive.google.com/file/d/1Kv8sGk65w5Od4TQCk3Xfd34z3tckj-l2/view?usp=sharing
 
 <img width="333" height="501" alt="image" src="https://github.com/user-attachments/assets/d71dfce8-47e9-49d0-b963-34144d7a8652" />
 
